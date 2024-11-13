@@ -1,11 +1,9 @@
-import { StickyHeader } from "@/components/sticky-header";
+import { LeaverboardHome } from "@/components/leaverboard-home";
 
 export default function Home() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <StickyHeader></StickyHeader>
-      </main>
+    <div className="grid items-top mt-16 pt-16 justify-items-center min-h-screen p-5 font-[family-name:var(--font-geist-sans)]">
+      <LeaverboardHome></LeaverboardHome>
     </div>
   );
 }
