@@ -1,6 +1,4 @@
-import { LeaverboardHome } from "@/components/leaverboard-home";
 import { StickyHeader } from "@/components/sticky-header";
-import Image from "next/image";
 
 export default function Home() {
   return (
