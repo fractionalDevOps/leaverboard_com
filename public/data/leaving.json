@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Elon Musk",
+    "handle": "@elonmusk",
+    "leaveDate": "2023-11-10",
+    "reason": "Focusing on X",
+    "predictedReturn": "2024-01-01",
+    "votes": { "willReturn": 1500, "wontReturn": 500 }
+  },
+  {
+    "name": "Taylor Swift",
+    "handle": "@taylorswift13",
+    "leaveDate": "2023-11-09",
+    "reason": "Taking a break",
+    "predictedReturn": "2023-12-25",
+    "votes": { "willReturn": 2000, "wontReturn": 200 }
+  },
+  {
+    "name": "Leonardo DiCaprio",
+    "handle": "@LeoDiCaprio",
+    "leaveDate": "2023-11-08",
+    "reason": "Environmental focus",
+    "predictedReturn": "2024-03-15",
+    "votes": { "willReturn": 800, "wontReturn": 1200 }
+  },
+  {
+    "name": "Beyoncé",
+    "handle": "@Beyonce",
+    "leaveDate": "2023-11-07",
+    "reason": "New project launch",
+    "predictedReturn": "2024-02-14",
+    "votes": { "willReturn": 3000, "wontReturn": 100 }
+  },
+  {
+    "name": "Tom Hanks",
+    "handle": "@tomhanks",
+    "leaveDate": "2023-11-06",
+    "reason": "Social media detox",
+    "predictedReturn": "2024-06-30",
+    "votes": { "willReturn": 1200, "wontReturn": 800 }
+  }
+]
