@@ -144,7 +144,7 @@ export function LeaverboardHome() {
   };
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="container">
       <Card className="mb-8">
         <CardHeader>
           <CardTitle className="text-4xl font-bold text-center">
@@ -318,7 +318,7 @@ export function LeaverboardHome() {
       </Card>
 
       {showComingSoon && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div className="fixed inset-1 bg-black bg-opacity-50 flex items-center justify-center z-50">
           <Card className="w-full max-w-md">
             <CardHeader>
               <div className="flex justify-between items-center">
